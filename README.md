@@ -1,2 +1,2 @@
-# digital-clock
- simple digital clock with animation
+# digital-clock-app
+ simple digital clock app with animation. used html css js
